@@ -1,0 +1,1 @@
+$(".codSocLabel").text("suca cuca");

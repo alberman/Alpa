@@ -1,0 +1,18 @@
+{
+  "name": "alpa",
+  "version": "1.0.0",
+  "description": "alpa è una web app per gestire gare amatoriali di sci",
+  "main": "alpa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "jquery": "^3.6.3",
+    "jshint": "^2.13.6",
+    "mariadb": "^3.0.2"
+  }
+}

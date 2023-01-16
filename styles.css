@@ -1,0 +1,30 @@
+.title-name {
+  text-align: center;
+  margin-bottom: 2rem;
+
+}
+
+.btn-personal {
+  margin: 4px 0;
+  display: block;
+}
+
+.container {
+  background-color: #EFF5F5;
+}
+
+.alpa-section {
+  margin: 1rem;
+  background-color: #D6E4E5;
+}
+
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+font-size: 1rem;
+line-height: 2.15;
+padding-left: .75em;
+padding-right: .75em;
+}
+.card-registration .select-arrow {
+top: 13px;
+}
